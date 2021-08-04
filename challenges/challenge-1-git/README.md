@@ -12,6 +12,7 @@ Contohnya:
 - `prochefacademy{contoh_sebuah_rahasia}`  
 - `prochefacademy{ini_rahasia_banget_loh}`  
 - `prochefacademy{wah_ini_sulit_ditemukan}`  
+- `prochefacademy{buset_ini_commit_nyempil_nyempil_banget_ya}`
 
 # Hint(s)
 
