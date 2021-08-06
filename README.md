@@ -22,7 +22,9 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
   > Sebagai mentee
-
+- [Mohamad Yusril](https://github.com/usereall) [RIL]
+  > Sebagai mentee
+ 
 # Contents
 
 - [Challenges](./challenges)  
